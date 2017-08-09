@@ -1,0 +1,7 @@
+
+target 'YFSAsyncRoundCorner' do
+  platform:ios,'8.0'
+  use_frameworks!
+  project 'YFSAsyncRoundCorner.xcodeproj'
+   pod 'Kingfisher'
+  end 
